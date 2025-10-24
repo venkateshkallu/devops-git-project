@@ -1,4 +1,5 @@
 # DevOps Git Project
+## Documentation Updated: Added workflow explanation
 
 ## Project Overview
 This project demonstrates a version-controlled DevOps workflow using Git and GitHub.  
